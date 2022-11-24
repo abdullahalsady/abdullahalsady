@@ -1,8 +1,10 @@
 ## :wave: Hey there! Nice to see you.
+<br>
+
 ### I am **Sady.** I am From __*Dhaka, Bangladesh*__:yum:. I Actively code on **JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python** every day. I love to solve problems:sunglasses:.
 <br>
 
-### :paperclip:I love to read books and watching movies. 
+### :shamrock:I love to read books and watching movies.
 
 <!--
 **abdullahalsady/abdullahalsady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
