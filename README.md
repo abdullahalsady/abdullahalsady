@@ -3,8 +3,9 @@
 ## :wave: Hey there! Nice to see you.
 <br>
 
-#### I am **Sady.** I am From **Dhaka, Bangladesh**:yum:. I Actively code on **JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python** every day. I love to solve problems:sunglasses:.
-<br>
+#### I am **Sady.** I am From **Dhaka, Bangladesh**:yum:. I Actively code on **JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python** every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.
+<br/>
+<hr/>
 
 #### :shamrock:I love to read books and watching movies.
 
