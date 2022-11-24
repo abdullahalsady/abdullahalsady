@@ -14,7 +14,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsady&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsady)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsady)   -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahalsady)  
 
