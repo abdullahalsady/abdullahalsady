@@ -22,6 +22,7 @@
 
 <details>
   <summary>More About me</summary>
+  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsady)  
 </details>
 
