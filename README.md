@@ -1,9 +1,9 @@
 # Abdullah Al Sady
 
-## :wave: Hey there! Nice to see you.
+## :wave: Hey there! Nice to see you. <img src="images/hello.gif" width="25">
 <br>
 
-I am **Sady.** I am From **Dhaka, Bangladesh**:yum:. I Actively code on **JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python** every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.
+I am **Sady.** I am From **Dhaka, <img src="images/bangladesh.png" width="15"> Bangladesh**:yum:. I Actively code on **JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python** every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.
 <br/>
 <hr/>
 
