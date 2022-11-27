@@ -1,4 +1,4 @@
-# Abdullah Al Sady
+# <div text-align="center"> Abdullah Al Sady </div>
 
 ## Hey there! Nice to see you. <img src="images/hello.gif" width="25">
 <br>
