@@ -8,7 +8,6 @@
 
 <br/>
 <br/>
-<br/>
 
 :shamrock:I love to read books and watching movies.
 
