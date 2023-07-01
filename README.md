@@ -1,6 +1,6 @@
 <h1 align="center">Abdullah Al Sady</h1>
 
-<h2 style="text-align: center">Hey there! Nice to see you.<img style="margin-left: 10px" src="images/hello.gif" width="25px"></h2>
+<h2 align="center">Hey there! Nice to see you.<img style="margin-left: 10px" src="images/hello.gif" width="25px"></h2>
 
 <br>
 
