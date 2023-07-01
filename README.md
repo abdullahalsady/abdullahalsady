@@ -1,4 +1,4 @@
-<div style="text-align: center">Abdullah Al Sady</div>
+<div style="text-align: center"><h1>Abdullah Al Sady</h1></div>
 
 <h2 style="text-align: center">Hey there! Nice to see you.<img style="margin-left: 10px" src="images/hello.gif" width="25px"></h2>
 
