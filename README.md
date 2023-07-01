@@ -1,20 +1,20 @@
 <div style="text-align: center"><h1> Abdullah Al Sady </h1></div>
 
-## Hey there! Nice to see you. <img src="images/hello.gif" width="25">
+<h2 style="text-align: center; display: inline-block">Hey there! Nice to see you.</h2>
+<img src="images/hello.gif" width="25">
 <br>
 
-I am **Sady.** I am From **Dhaka, <img src="images/bangladesh.png" width="15"> Bangladesh**. I Actively code on **JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python** every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.
-<br/>
+<h3>I am <b>Sady.</b> I am From <b>Dhaka, <img style="display: inline" src="images/bangladesh.png" width="20px"> Bangladesh</b>. I Actively code on <b>JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python</b> every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.</h3>
 
+<br/>
 
 :shamrock:I love to read books and watching movies.
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsady&show_icons=true)  
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahalsady)  
+  
+
+
 
