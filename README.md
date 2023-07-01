@@ -4,7 +4,7 @@
 
 <br>
 
-<h3>I am <b>Sady.</b> I am From <b>Dhaka, <img style="display: inline" src="images/bangladesh.png" width="20px"> Bangladesh</b>. I Actively code on <b>JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python</b> every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.</h3>
+<center>I am <b>Sady.</b> I am From <b>Dhaka, <img style="display: inline" src="images/bangladesh.png" width="20px"> Bangladesh</b>. I Actively code on <b>JS, React, HTML, CSS, Bootstrap, Tailwind, JS and Python</b> every day. I love to solve problems:sunglasses:. I enjoy programming and sharing knowledge.</center>
 
 <br/>
 
