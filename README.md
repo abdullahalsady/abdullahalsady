@@ -23,12 +23,12 @@ I'm currently diving into the world of building full-stack web applications and 
 2. [![Project 2](project2-image)](link-to-project2) - Brief description.
 3. [![Project 3](project3-image)](link-to-project3) - Brief description. -->
 
-
 ## 📊 GitHub Stats
-![GitHub Stats](github-stats-image)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalsady&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
-## 📈 GitHub Activity
-![GitHub Activity](github-activity-image)
+
+<!-- ## 📈 GitHub Activity
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=abdullahalsady&theme=github) -->
 
 
 
