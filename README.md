@@ -33,9 +33,10 @@ I'm currently diving into the world of building full-stack web applications and 
 
 
 ## 🌟 Interesting Facts
-📚 Exploring Islam's rich history and philosophy.  
-🌍 Integrating Islamic teachings into my life and work.    
-💡 Building a digital resource on Islam with tech passion.
+☕ **Caffeine Compiler**: Runs on coffee and JavaScript errors.  
+🤖 **Bug Whisperer**: I don’t find bugs; they find me. It's a love-hate relationship.  
+🎢 **Code Adventurer**: Every deployment feels like riding a roller coaster—terrifying but fun!  
+
 
 
 ## 📫 How to reach me
