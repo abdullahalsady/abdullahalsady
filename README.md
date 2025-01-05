@@ -1,7 +1,7 @@
 <h2>Hello, I'm @Sady!<img style="margin-left: 10px" src="images/hello.gif" width="25px"></h2>
 
 
-"I am an aspiring 🚀 software engineer based in <img style="display: inline" src="images/bangladesh.png" width="17px"> Bangladesh, fueled by a deep passion for coding. My current focus lies in honing my skills in JavaScript 💻, as I strive to become proficient in this versatile language."
+I am an aspiring 🚀 software engineer based in <img style="display: inline" src="images/bangladesh.png" width="17px"> Bangladesh, fueled by a deep passion for coding. My current focus lies in honing my skills in JavaScript 💻, as I strive to become proficient in this versatile language.
 
 ## 🔧 Technologies & Tools
 ![Cmd](https://img.shields.io/badge/-Cmd-1f425f.svg?style=flat&logo=command-line&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
