@@ -18,10 +18,19 @@ I am an aspiring 🚀 software engineer based in <img style="display: inline" sr
 ## 🌱 Currently Learning
 I'm currently diving into the world of building full-stack web applications and honing my skills in project architecture. Exploring new technologies such as `Javascript`, I'm excited to apply these learnings to my upcoming projects. The goal is to create more robust and scalable solutions, and I'm embracing the challenges that come with it. Stay tuned for some exciting projects in the making!
 
-<!-- ## 🚀 Featured Projects
-1. [![Project 1](project1-image)](link-to-project1) - Brief description.
-2. [![Project 2](project2-image)](link-to-project2) - Brief description.
-3. [![Project 3](project3-image)](link-to-project3) - Brief description. -->
+## My Projects & Creations 🚀  
+
+| Projects | Description | Responses |
+|----------|------------|-----------|
+| [🖩 Calculator](https://github.com/abdullahalsady/Calculator) | A simple GUI calculator built with Python Tkinter | 🎯 Personal Project |
+| [🌐 Portfolio Website](#) | A personal portfolio website showcasing my skills & projects | 🛠️ In Development |
+| [🐾 Pet Finder](#) | A pet adoption platform using Peddy API | 🔄 Work in Progress |
+| [❤️ Donation Platform](#) | A responsive web app for managing donations | 📢 Ongoing |
+| [💻 DPI Programming Club](#) | Mission and vision for DPI Computer Programming Club | 🎓 Contributor |
+
+### 📌 About This Table  
+This table highlights some of my notable projects, showcasing my work in **software development, web technologies, and API integrations**. Stay tuned for updates! 🚀
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalsady&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
