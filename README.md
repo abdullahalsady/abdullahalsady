@@ -33,11 +33,12 @@ Every day, I strive to grow a bit more — learning by building, breaking, and f
 
 | Project Name     | Description                                       | Live Link                                                                 | Repo Link         |
 |------------------|---------------------------------------------------|---------------------------------------------------------------------------|-------------------|
-| 🐾 **Peddy**        | A pet adoption platform built using the Peddy API.   | [Live](https://profound-belekoy-04aac1.netlify.app/)                      | 🔒 Private Repo   |
-| 🇯🇵 **Lingo Bingo** | A Japanese language learning platform.               | [Live](https://dreamy-trifle-adde47.netlify.app/)                         | 🔒 Private Repo   |
-| 🏏 **BPL DREAM**    | A BPL cricket team selector using ReactJS.           | [Live](https://monumental-praline-4b7489.netlify.app/)                    | 🔒 Private Repo   |
-| 💼 **Gadget Heaven** | A tech accessories e-commerce platform.             | [Live](https://spiffy-tanuki-48919f.netlify.app/home)                     | 🔒 Private Repo   |
+| 🐾 **Peddy**        | A pet adoption platform built using the Peddy API.   | <a href="https://profound-belekoy-04aac1.netlify.app/" target="_blank">Live</a> | 🔒 Private Repo   |
+| 🇯🇵 **Lingo Bingo** | A Japanese language learning platform.               | <a href="https://dreamy-trifle-adde47.netlify.app/" target="_blank">Live</a> | 🔒 Private Repo   |
+| 🏏 **BPL DREAM**    | A BPL cricket team selector using ReactJS.           | <a href="https://monumental-praline-4b7489.netlify.app/" target="_blank">Live</a> | 🔒 Private Repo   |
+| 💼 **Gadget Heaven** | A tech accessories e-commerce platform.             | <a href="https://spiffy-tanuki-48919f.netlify.app/home" target="_blank">Live</a> | 🔒 Private Repo   |
 | 🖩 **Calculator**   | A simple GUI calculator using Python Tkinter.        | —                                                                         | [GitHub Repo](https://github.com/abdullahalsady/Calculator.git) |
+
 
 ### 📌 About This Table  
 This table highlights some of my notable projects, showcasing my work in **software development, web technologies, and API integrations**. Stay tuned for updates! 🚀
