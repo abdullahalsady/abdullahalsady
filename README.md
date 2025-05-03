@@ -11,8 +11,8 @@ I am an aspiring 🚀 **MLOps Engineer** based in <img style="display: inline" s
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white) 
-![API](https://img.shields.io/badge/-API-009688?style=flat&logo=api&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![BEM](https://img.shields.io/badge/-BEM-000000?style=flat)
+![API](https://img.shields.io/badge/-API-009688?style=flat&logo=api&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-3B82F6?style=flat&logo=daisyui&logoColor=white)
+![BEM](https://img.shields.io/badge/-BEM-000000?style=flat) 
 
 ## 🌱 Currently Learning
 
@@ -55,8 +55,7 @@ This table highlights some of my notable projects, showcasing my work in **softw
 🎢 **Code Adventurer**: Every deployment feels like riding a roller coaster—terrifying but fun!  
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmer-sady?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/div.sady)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmer-sady?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/div.sady)
 
 Feel free to explore my repositories and connect with me!
 
